@@ -1,0 +1,200 @@
+Password,Strength,Issues
+123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+admin,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+12345678,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123456789,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+password,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+Aa123456,Weak,Password is shorter than 12 characters.; Missing special character.
+1234567890,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Pass@123,Moderate,Password is shorter than 12 characters.
+admin123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+1234567,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+111111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+12345678910,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+P@ssw0rd,Moderate,Password is shorter than 12 characters.
+Password,Weak,Password is shorter than 12 characters.; Missing number.; Missing special character.
+Aa@123456,Moderate,Password is shorter than 12 characters.
+admintelecom,Weak,Missing uppercase letter.; Missing number.; Missing special character.
+Admin@123,Moderate,Password is shorter than 12 characters.
+112233,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+102030,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+654321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+abcd1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+abc123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+qwerty123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Abcd@1234,Moderate,Password is shorter than 12 characters.
+Pass@1234,Moderate,Password is shorter than 12 characters.
+11223344,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+admin@123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.
+87654321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+987654321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+qwerty,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+123123123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1q2w3e4r,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Aa112233,Weak,Password is shorter than 12 characters.; Missing special character.
+12341234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+qwertyuiop,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+11111111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Admin,Weak,Password is shorter than 12 characters.; Missing number.; Missing special character.
+Password@123,Strong,
+asd123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Aboy1234,Weak,Password is shorter than 12 characters.; Missing special character.
+123321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+admin1,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Admin123,Weak,Password is shorter than 12 characters.; Missing special character.
+Demo@123,Moderate,Password is shorter than 12 characters.
+1q2w3e4r5t,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+admin1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+aa123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+121212,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+asdf1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+888888,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Abcd1234,Weak,Password is shorter than 12 characters.; Missing special character.
+guru123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+666666,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Welcome@123,Moderate,Password is shorter than 12 characters.
+guest,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+Password1,Weak,Password is shorter than 12 characters.; Missing special character.
+123456789a,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Kapler123,Weak,Password is shorter than 12 characters.; Missing special character.
+administrator,Weak,Missing uppercase letter.; Missing number.; Missing special character.
+1122334455,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Test@123,Moderate,Password is shorter than 12 characters.
+qwer1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+asdfghjkl,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+Global123@,Moderate,Password is shorter than 12 characters.
+10203040,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1234qwer,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+India@123,Moderate,Password is shorter than 12 characters.
+Abcd@123,Moderate,Password is shorter than 12 characters.
+1qaz2wsx,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+88888888,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123qwe,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+12345678a,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+secret,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+Aa123123,Weak,Password is shorter than 12 characters.; Missing special character.
+12344321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123456aA@,Moderate,Password is shorter than 12 characters.
+123456a,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+a123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+202020,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1234abcd,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+admin123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+qwe123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+101010,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+222222,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+12121212,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+welcome,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+abc12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Abc@1234,Moderate,Password is shorter than 12 characters.
+admin12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Qwerty123,Weak,Password is shorter than 12 characters.; Missing special character.
+12345678900,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123654,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+555555,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Aa123456789,Weak,Password is shorter than 12 characters.; Missing special character.
+1111111111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+12345678901,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+q1w2e3r4,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+password123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Heslo1234,Weak,Password is shorter than 12 characters.; Missing special character.
+22446688,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Abc12345,Weak,Password is shorter than 12 characters.; Missing special character.
+vodafone,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+999999,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+bismillah,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+a123456789,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Password123,Weak,Password is shorter than 12 characters.; Missing special character.
+azerty,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+user1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+1234567891,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1234512345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+adminisp,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+1234567899,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+P@$$w0rd,Moderate,Password is shorter than 12 characters.
+Aa12345678,Weak,Password is shorter than 12 characters.; Missing special character.
+Passw0rd,Weak,Password is shorter than 12 characters.; Missing special character.
+zxcvbnm,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+adminadmin,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+qwerty12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+gvt12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+minecraft,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+abcd@1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.
+pakistan,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+ADMIN,Weak,Password is shorter than 12 characters.; Missing lowercase letter.; Missing number.; Missing special character.
+10203,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Welcome1,Weak,Password is shorter than 12 characters.; Missing special character.
+theworldinyourhand,Weak,Missing uppercase letter.; Missing number.; Missing special character.
+aabb1122,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+test123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Asdf1234,Weak,Password is shorter than 12 characters.; Missing special character.
+54321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1111111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+a1b2c3d4,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+password1,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+student,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+Abc@12345,Moderate,Password is shorter than 12 characters.
+Aa102030,Weak,Password is shorter than 12 characters.; Missing special character.
+Pass@12345,Moderate,Password is shorter than 12 characters.
+135790,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123abc,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+cisco,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+11111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Aa@12345,Moderate,Password is shorter than 12 characters.
+111111111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+p@ssw0rd,Weak,Password is shorter than 12 characters.; Missing uppercase letter.
+lol123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+147258369,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123456Aa,Weak,Password is shorter than 12 characters.; Missing special character.
+Aa@1234567,Moderate,Password is shorter than 12 characters.
+Admin@1234,Moderate,Password is shorter than 12 characters.
+1234554321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+124578,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+12qwaszx,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Abc@123,Moderate,Password is shorter than 12 characters.
+a12345678,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+aa112233,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+qwer4321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+a1234567,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Qwerty@123,Moderate,Password is shorter than 12 characters.
+12345679,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Ab123456,Weak,Password is shorter than 12 characters.; Missing special character.
+Aa@123456789,Strong,
+Abcd1234@,Moderate,Password is shorter than 12 characters.
+123qweasd,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Admin1234,Weak,Password is shorter than 12 characters.; Missing special character.
+pakistan123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+A123456a,Weak,Password is shorter than 12 characters.; Missing special character.
+qwerty1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+1234567a,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+abc123456,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+turktelekom,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+test1234,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+999999999,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+123456788,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+Aaa111,Weak,Password is shorter than 12 characters.; Missing special character.
+contraseña,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+7654321,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+1qazxsw2,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Password@1,Moderate,Password is shorter than 12 characters.
+asdasd,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+aaaaaa,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+qwerty123456,Weak,Missing uppercase letter.; Missing special character.
+246810,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+11112222,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+aaaa1111,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Abc123,Weak,Password is shorter than 12 characters.; Missing special character.
+q1w2e3r4t5,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+987654,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.; Missing special character.
+aa123123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+azerty123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+Aa1234567,Weak,Password is shorter than 12 characters.; Missing special character.
+abc@123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.
+changeme,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing number.; Missing special character.
+12345678@,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing lowercase letter.
+P@55w0rd,Moderate,Password is shorter than 12 characters.
+asd12345,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+zxcvbnm123,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
+123admin,Weak,Password is shorter than 12 characters.; Missing uppercase letter.; Missing special character.
